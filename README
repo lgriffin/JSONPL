@@ -1,0 +1,6 @@
+This is an attempt to bring Policy Based Network Management principles and research into Node.js
+Using JSONP, we will author Policy documents for interpretation by a node.js program.
+
+10-June-2011.
+
+@leighgriffin
