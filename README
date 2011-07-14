@@ -4,3 +4,16 @@ Using JSONP, we will author Policy documents for interpretation by a node.js pro
 10-June-2011.
 
 @leighgriffin
+
+
+Files will be updated periodically for testing and a means of mutual resource access so do not use this software
+or any components until a beta deploy is available.
+
+
+Shortcuts for adding stuff through cloud9:
+
+commands:
+
+git add <filename>
+git commit -m "my message"
+git push origin master
