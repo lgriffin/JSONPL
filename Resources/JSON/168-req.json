@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "admin"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-submission-info_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "delete"
+	
+		 }
+	
+}

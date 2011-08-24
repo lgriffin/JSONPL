@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"subjReviewsThisResPaper" : "true",
+			"role" : "pc-member"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-submission-file_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "delete"
+	
+		 }
+	
+}

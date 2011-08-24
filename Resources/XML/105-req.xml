@@ -1,0 +1,13 @@
+<Request xmlns="urn:oasis:names:tc:xacml:2.0:context:schema:os">
+  <Subject SubjectCategory="urn:oasis:names:tc:xacml:1.0:subject-category:access-subject">
+    <Attribute AttributeId="isMeeting" DataType="http://www.w3.org/2001/XMLSchema#string"><AttributeValue>true</AttributeValue></Attribute>
+  </Subject>
+  <Resource>
+    <Attribute AttributeId="isPending" DataType="http://www.w3.org/2001/XMLSchema#string"><AttributeValue>false</AttributeValue></Attribute>
+    <Attribute AttributeId="urn:oasis:names:tc:xacml:1.0:resource:resource-id" DataType="http://www.w3.org/2001/XMLSchema#string"><AttributeValue>DEFAULT RESOURCE</AttributeValue></Attribute>
+  </Resource>
+  <Action>
+    <Attribute AttributeId="action-type" DataType="http://www.w3.org/2001/XMLSchema#string"><AttributeValue>read</AttributeValue></Attribute>
+  </Action>
+<Environment/>
+</Request>

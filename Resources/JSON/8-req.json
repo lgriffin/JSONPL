@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"isSubjectsMeeting" : "true"
+
+			},
+
+"resource" : {
+	
+			 "isEq-meetingPaper-resId" : "true",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "write"
+	
+		 }
+	
+}

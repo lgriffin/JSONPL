@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "admin"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "pcMember-info-isChairFlag_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "create"
+	
+		 }
+	
+}

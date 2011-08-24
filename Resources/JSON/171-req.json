@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "subreviewer"
+
+			},
+
+"resource" : {
+	
+			 "phase" : "discussion",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "write"
+	
+		 }
+	
+}

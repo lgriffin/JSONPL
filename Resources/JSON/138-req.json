@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"isSubjectsMeeting" : "true"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-review_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "write"
+	
+		 }
+	
+}

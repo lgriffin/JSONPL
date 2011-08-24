@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"subjReviewsThisResPaper" : "true"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-conflicts_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "write"
+	
+		 }
+	
+}

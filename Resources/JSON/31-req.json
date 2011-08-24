@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"isEq-subjUserId-resUserId" : "true"
+
+			},
+
+"resource" : {
+	
+			 "isPending" : "false",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "write"
+	
+		 }
+	
+}

@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"isEq-subjUserId-resUserId" : "true"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-review-info_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "create"
+	
+		 }
+	
+}
