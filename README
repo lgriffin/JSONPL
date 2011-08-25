@@ -1,7 +1,11 @@
-This is an attempt to bring Policy Based Network Management principles and research into Node.js
-Using JSONP, we will author Policy documents for interpretation by a node.js program.
+This is an attempt to bring Policy Based Network Management (PBNM) principles and research into Node.js
+Using JSONP, we will author Policy documents for interpretation by a node.js program. The following directory structure  is available:
 
-10-June-2011.
+- Testing: General testing area files here may not work and represnt emerging ideas
+- Architecture: The PBNM Node.js Architecture will be stored here. Initially the PRP and PIP will be present
+- Resources: A full suite of XML and translated JSON policy requests will be stored here.
+
+Repository created: 10-June-2011.
 
 @leighgriffin
 
@@ -10,10 +14,3 @@ Files will be updated periodically for testing and a means of mutual resource ac
 or any components until a beta deploy is available.
 
 
-Shortcuts for adding stuff through cloud9:
-
-commands:
-
-git add <filename>
-git commit -m "my message"
-git push origin master
