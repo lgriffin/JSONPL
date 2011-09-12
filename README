@@ -13,4 +13,6 @@ Repository created: 10-June-2011.
 Files will be updated periodically for testing and a means of mutual resource access so do not use this software
 or any components until a beta deploy is available.
 
-
+The PDP implementation will be kept seperate from this project.
+The repository https://github.com/lgriffin/PDP.js will be used for all
+PDP related discussion.
