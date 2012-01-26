@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "pc-chair"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "pcMember_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "create"
+	
+		 }
+	
+}

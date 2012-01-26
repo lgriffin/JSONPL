@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "subreviewer"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "pcMember_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "delete"
+	
+		 }
+	
+}

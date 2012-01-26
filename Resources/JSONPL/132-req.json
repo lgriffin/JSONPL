@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"subjReviewsThisResPaper" : "true",
+			"isSubjectsMeeting" : "true"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "isMeetingFlag_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "delete"
+	
+		 }
+	
+}

@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"isMeeting" : "true"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-submission-file_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "read"
+	
+		 }
+	
+}

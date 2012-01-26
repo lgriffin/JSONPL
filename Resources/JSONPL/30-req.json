@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"isConflicted" : "true"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-submission-info_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "create"
+	
+		 }
+	
+}

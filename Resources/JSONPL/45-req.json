@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "pc-member"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "paper-review-content-commentsPc_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "read"
+	
+		 }
+	
+}

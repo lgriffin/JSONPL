@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "admin"
+
+			},
+
+"resource" : {
+	
+			 "resource-class" : "pcMember-assignments_rc",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "read"
+	
+		 }
+	
+}

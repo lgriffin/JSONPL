@@ -1,0 +1,23 @@
+{
+"subject" : {
+
+			"category" : "access-subject",
+			"role" : "pc-chair"
+
+			},
+
+"resource" : {
+	
+			 "isSeeUnassignedAllowed" : "true",
+			 "resource-id" : "DEFAULT RESOURCE"
+
+
+			},
+			
+"action" : {
+	
+			"action-type" : "delete"
+	
+		 }
+	
+}
